@@ -4,6 +4,9 @@
   import Works from "../components/works.svelte";
 </script>
 
+<svelte:head>
+  <title>Lei Ocopio</title>
+</svelte:head>
 <div class="mx-auto max-w-screen-lg max-md:max-w-screen-sm">
   <section id="home">
     <Home />

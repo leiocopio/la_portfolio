@@ -8,7 +8,7 @@
     <br />
     <br />
 
-    <p class="text-2xl text-center leading-loose">
+    <p class="text-2xl text-justify leading-loose">
       A software developer and graphic artist based in Manila, Philippines. I am
       passionate about technology, design, and the intersection of the two. I am
       a graduate from the University of Caloocan City - North Campus with a
