@@ -109,20 +109,7 @@
   </ul>
 </div>
 <br />
-<div>
-  <h1 class={h1}>Prototyping</h1>
 
-  <ul>
-    <li>
-      <div class="icon-wrapper">
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
-        />
-      </div>
-    </li>
-  </ul>
-</div>
-<br />
 <div>
   <h1 class={h1}>Package Managers</h1>
 

@@ -1,5 +1,5 @@
 /** @type {import('tailwindcss').Config} */
-const { colors: defaultColors } = require("tailwindcss/defaultTheme");
+const defaultColors = require("tailwindcss/colors");
 
 const colors = {
   ...defaultColors,
