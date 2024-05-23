@@ -9,7 +9,7 @@
     <Home />
   </section>
 
-  <section id="about" class="pt-10">
+  <section id="about" class="pt-28">
     <About />
   </section>
 
