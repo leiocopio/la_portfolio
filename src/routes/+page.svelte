@@ -2,6 +2,7 @@
   import Home from "../components/home.svelte";
   import About from "../components/about.svelte";
   import Works from "../components/works.svelte";
+  import Connect from "../components/connect.svelte";
 </script>
 
 <svelte:head>
@@ -18,5 +19,9 @@
 
   <section id="works" class="pt-10">
     <Works />
+  </section>
+
+  <section id="connect" class="pt-10">
+    <Connect />
   </section>
 </div>

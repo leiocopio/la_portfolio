@@ -29,6 +29,10 @@ const colors = {
     800: "#a5d7e9",
     900: "#c8e7f5",
   },
+
+  fb_icon: { DEFAULT: "#1877F2" },
+  discord_icon: { DEFAULT: "#7289d9" },
+  linkedin_icon: { DEFAULT: "#0077B5" },
 };
 
 export default {
