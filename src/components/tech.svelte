@@ -60,6 +60,21 @@
   </ul>
 </div>
 <br />
+
+<div>
+  <h1 class={h1}>CSS Framework</h1>
+
+  <ul>
+    <li>
+      <div class="icon-wrapper">
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
+        />
+      </div>
+    </li>
+  </ul>
+</div>
+<br />
 <div>
   <h1 class={h1}>Backend Frameworks</h1>
 
