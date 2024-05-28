@@ -17,8 +17,6 @@
       <span class="text-pink">Ocopio.</span>
     </h1>
     <br />
-    <h2 class="text-2xl text-center text-white">
-      Software Developer and Graphic Artist.
-    </h2>
+    <h2 class="text-2xl text-center text-white">Web Developer</h2>
   </div>
 </div>

@@ -17,22 +17,28 @@
       <li
         class="icon-wrapper transition duration-250 ease-in-out hover:scale-125 hover:text-linkedin_icon"
       >
-        <a href="" class="flex flex-row items-center justify-center gap-4"
-          ><i class="fa-brands fa-linkedin"></i>Linkedin</a
+        <a
+          href="https://www.linkedin.com/in/louise-angelo-ocopio-092259279/"
+          class="flex flex-row items-center justify-center gap-4"
+          target="_blank"><i class="fa-brands fa-linkedin"></i>Linkedin</a
         >
       </li>
       <li
         class="hover:text-fb_icon icon-wrapper transition duration-250 ease-in-out hover:scale-125"
       >
-        <a href="" class=" flex flex-row items-center justify-center gap-4"
-          ><i class="fa-brands fa-facebook"></i>Facebook</a
+        <a
+          href="https://www.facebook.com/laocopio.2024"
+          class=" flex flex-row items-center justify-center gap-4"
+          target="_blank"><i class="fa-brands fa-facebook"></i>Facebook</a
         >
       </li>
       <li
-        class="icon-wrapper hover:text-discord_icon transition duration-250 ease-in-out hover:scale-125"
+        class="icon-wrapper hover:text-github_icon transition duration-250 ease-in-out hover:scale-125"
       >
-        <a href="" class="flex flex-row items-center justify-center gap-4"
-          ><i class="fa-brands fa-discord"></i>Discord</a
+        <a
+          href="https://github.com/leiocopio"
+          class="flex flex-row items-center justify-center gap-4"
+          target="_blank"><i class="fa-brands fa-github"></i>GitHub</a
         >
       </li>
     </ul>

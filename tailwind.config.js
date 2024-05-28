@@ -33,6 +33,7 @@ const colors = {
   fb_icon: { DEFAULT: "#1877F2" },
   discord_icon: { DEFAULT: "#7289d9" },
   linkedin_icon: { DEFAULT: "#0077B5" },
+  github_icon: { DEFAULT: "#2B3137" },
 };
 
 export default {
