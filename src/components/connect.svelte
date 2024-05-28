@@ -3,7 +3,7 @@
 </script>
 
 <div class="flex items-center justify-center h-screen flex-col max-md:px-3">
-  <h1 class="text-[2rem] font-bold text-center text-pink-400">
+  <h1 class="text-[2rem] font-bold text-center text-pink-100">
     Connect with me
   </h1>
   <br />

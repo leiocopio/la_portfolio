@@ -3,7 +3,7 @@
 </script>
 
 <div class="flex items-center justify-center flex-col max-md:px-3">
-  <span class="bg-pink-700 p-5 rounded-md">
+  <span class="bg-pink-400 p-5 rounded-md">
     <h1 class="text-[2rem] font-bold text-center">About Me</h1>
     <br />
     <br />
