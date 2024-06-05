@@ -9,7 +9,7 @@
     <br />
 
     <p class="text-2xl text-justify leading-loose">
-      A web developer based in Manila, Philippines. I am passionate about
+      A SveteKit and React developer based in Manila, Philippines. I am passionate about
       technology, design, and the intersection of the two. I'm a student from
       the University of Caloocan City - North Campus with a degree in Computer
       Science.
